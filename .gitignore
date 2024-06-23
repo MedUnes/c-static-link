@@ -1,0 +1,6 @@
+lib/*
+build/*
+obj/*
+!lib/.gitkeep
+!obj/.gitkeep
+!build/.gitkeep
